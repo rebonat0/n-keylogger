@@ -8,6 +8,7 @@
     "license": "ISC",
     "dependencies": {
         "localtunnel": "^2.0.2",
+        "ngrok": "^4.3.3",
         "tcp-local-tunnel": "^1.0.6"
     }
 }
