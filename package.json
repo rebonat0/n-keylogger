@@ -1,0 +1,13 @@
+{
+    "name": "node-remoteshell",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "localtunnel": "^2.0.2",
+        "tcp-local-tunnel": "^1.0.6"
+    }
+}
